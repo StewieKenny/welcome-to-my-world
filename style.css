@@ -1,0 +1,49 @@
+.logo {
+    margin-top: 1%;
+    width: 150px;
+}
+
+.thumbnail {
+    height: 350px;
+    border-radius: 5%;
+}
+.link-color {
+    color: black;
+}
+.center{
+font-family: poppins;
+}
+.second-page {
+    font-family: poppins;
+}
+.main-box {
+    width: 70%;
+    margin-left: 15%;
+}
+.box {
+    width: 40%;
+}
+.left1 {
+    float: left;
+}
+.right1 {
+    float: right;
+}
+footer {
+    clear: both;
+}
+.foot {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    background-color:#EDEAE0;
+    padding: 20px;
+}
+#highlight{
+    background-color: chocolate;
+    font-size: x-large;
+    color: aliceblue;
+}
+.white-text{
+    color: black;
+}
